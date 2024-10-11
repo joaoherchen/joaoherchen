@@ -1,8 +1,15 @@
 EAI FI BAO 
-![](https://images.app.goo.gl/ntsxAG8tRCs4DM4JA)
-NOME:JOAO VICTOR
-NACIONALIDADE:BRASIL
-ESTUDANTE DO CLAUDIO MORELLI
-ESTUDANTE DO ALURA
-![](https://images.app.goo.gl/ZDP9BpSy2GmtK8HDA)
+![](https://i.gifer.com/XOsX.gif)
+
+
+-NOME:JOAO VICTOR
+
+-NACIONALIDADE:BRASIL🇧🇷
+
+-ESTUDANTE DO CLAUDIO MORELLI
+
+-ESTUDANTE DO [ALURA](https://www.alura.com.br/?srsltid=AfmBOoqlmbTFiBFNlRyIVfiNAgjzAaLD6ZrjDReKic5qxl-jjSSBFD8R)
+
+-estou desenvolvendo em javaEscript jogo Pong
+![]()
 
