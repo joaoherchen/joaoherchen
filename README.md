@@ -8,7 +8,7 @@ EAI FI BAO
 
 -ESTUDANTE DO CLAUDIO MORELLI
 
--ESTUDANTE DO [ALURA](https://www.alura.com.br/?srsltid=AfmBOoqlmbTFiBFNlRyIVfiNAgjzAaLD6ZrjDReKic5qxl-jjSSBFD8R)
+-CURSANDO NO [ALURA](https://www.alura.com.br/?srsltid=AfmBOoqlmbTFiBFNlRyIVfiNAgjzAaLD6ZrjDReKic5qxl-jjSSBFD8R)
 
 -estou desenvolvendo em javaEscript jogo Pong
 
